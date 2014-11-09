@@ -1,9 +1,9 @@
 {
-    "name": "express-validator",
+    "name": "petemertz-express-validator",
     "description": "A quick and precise way to validate request fields in express",
     "main": "./lib/express_validator",
     "author": "Pete Mertz",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/trezm/express-validator.git"
